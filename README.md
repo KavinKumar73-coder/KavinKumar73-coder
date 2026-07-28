@@ -116,49 +116,18 @@ A collection of my daily LeetCode practice solutions focused on improving:
 # 🔗 Coding Profiles
 
 - GitHub: https://github.com/KavinKumar73-coder
-- LeetCode: Add your LeetCode profile link
-- GeeksforGeeks: Add your GFG profile link
+- LeetCode:https://leetcode.com/u/kavinleet07/
 
 ---
-
-# 🗺️ 2026 - 2029 Roadmap
-
-## 2026
-- Strengthen Python and C++ fundamentals
-- Master DSA basics
-- Build small projects
-
-## 2027
-- Improve backend development skills
-- Build full-stack applications
-- Participate in coding challenges
-
-## 2028
-- Internship preparation
-- Advanced projects
-- Open source contribution
-
-## 2029
-- Software Engineering role preparation
-- Strong portfolio development
-
----
-
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ```yaml
-student: Kavinkumar
-degree: B.E Computer Science Engineering
-year: 2nd Year
-
-learning:
-  - Python
-  - C++
-  - Data Structures and Algorithms
-  - Git and GitHub
-  - SQL
-  - Web Development
+focus:
+  - Strengthening Data Structures & Algorithms
+  - Improving Python and C++ skills
+  - Building practical software projects
+  - Practicing problem solving through LeetCode
+  - Learning backend and web development fundamentals
 
 goal:
-  - Become a Software Engineer
-  - Build strong technical skills
+  - Become a skilled Software Engineer
