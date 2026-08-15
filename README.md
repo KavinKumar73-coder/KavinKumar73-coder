@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kavinkumar
+# Hi 👋, I'm KavinKumar
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=065F46&height=200&section=header&text=Kavinkumar%20%7C%20Aspiring%20Software%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
