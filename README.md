@@ -212,9 +212,9 @@ A collection of my daily LeetCode practice solutions focused on improving:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinKumar73-coder&layout=compact&hide_border=true&theme=tokyonight)
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinKumar73-coder&theme=tokyo-night)
+![Kavin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinKumar73-coder&hide_border=true&theme=tokyo-night)
 
 ---
 
