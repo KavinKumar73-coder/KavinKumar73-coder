@@ -218,13 +218,6 @@ A collection of my daily LeetCode practice solutions focused on improving:
 ![GitHub Streak](https://streak-stats.demolab.com?user=KavinKumar73-coder&theme=tokyonight)
 
 ---
-#  GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=KavinKumar73-coder&theme=tokyonight)
-
----
-
-
-
 # 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinKumar73-coder&layout=compact&hide_border=true&theme=tokyonight)
@@ -235,8 +228,6 @@ A collection of my daily LeetCode practice solutions focused on improving:
 ![Kavin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinKumar73-coder&hide_border=true&theme=tokyo-night)
 
 ---
-
-
 
 # 🔗 Coding Profiles
 
