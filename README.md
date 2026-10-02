@@ -33,7 +33,15 @@ I am continuously improving my skills through coding practice, projects, and lea
   />
 </picture>
 ---
+## 📈 Contribution Activity
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/activity-assets/activity-365d.svg"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+---
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -223,15 +231,6 @@ A collection of my daily LeetCode practice solutions focused on improving:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinKumar73-coder&layout=compact&hide_border=true&theme=tokyonight)
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/activity-assets/activity-365d.svg"
-    alt="GitHub Contribution Activity"
-  />
-</p>
----
 
 # 🔗 Coding Profiles
 
