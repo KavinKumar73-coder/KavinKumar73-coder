@@ -50,6 +50,115 @@ I solve LeetCode problems regularly and maintain my solutions on GitHub.
 
 # 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
+## 🔍 VeriDocs — Digital Document Forensics
+
+<details>
+<summary>View Project Details</summary>
+
+A browser-based PDF analysis tool designed to inspect digital documents and provide explainable forensic indicators.
+
+### Features:
+
+* Analyzes PDF metadata and document structure
+* Detects document-level anomalies and indicators
+* Generates a developer-defined heuristic risk score from 0–100
+* Provides explainable results rather than a definitive fraud verdict
+* Works directly in the browser
+
+### Technologies:
+
+* HTML
+* CSS
+* JavaScript
+* PDF.js
+* GitHub Pages
+
+</details>
+
+---
+
+## ♻️ LostLoop — Campus Lost & Found
+
+<details>
+<summary>View Project Details</summary>
+
+A campus-focused lost-and-found platform that helps users report, match, verify, and return lost items.
+
+### Features:
+
+* Lost and found item reporting
+* Smart matching based on item details
+* Category, color, location, and name-based matching
+* Verification using private identifying details
+* Admin dashboard for managing reports
+
+### Technologies:
+
+* Python
+* Streamlit
+* SQLite
+
+</details>
+
+---
+
+## 🌱 AgriLens AI — Plant Disease Detection
+
+<details>
+<summary>View Project Details</summary>
+
+An AI-focused project exploring image-based plant disease detection and practical guidance for crop-related problems.
+
+### Features:
+
+* Image-based plant disease classification
+* Dataset preparation and exploration
+* Disease detection and classification
+* Disease severity and explanation concepts
+* Practical guidance for affected plants
+
+### Technologies:
+
+* Python
+* PyTorch
+* Computer Vision
+* Machine Learning
+
+</details>
+
+---
+
+## 🌍 Landslide AI — Early Warning System
+
+<details>
+<summary>View Project Details</summary>
+
+A smart landslide monitoring and early warning system that combines environmental sensors with IoT connectivity to monitor conditions associated with landslide risk.
+
+### Features:
+
+* Monitors rainfall and soil moisture
+* Tracks ground movement and vibration
+* Collects temperature and humidity data
+* Uses ESP32 for sensor data processing and connectivity
+* Sends sensor data to a cloud monitoring dashboard
+* Designed for real-time environmental monitoring and early warnings
+
+### Technologies:
+
+* ESP32
+* IoT
+* Sensors
+* Python
+* HTTP / MQTT
+* Cloud Dashboard
+
+</details>
+
+---
+
 ## 📂 Python File Organizer
 
 <details>
@@ -58,14 +167,16 @@ I solve LeetCode problems regularly and maintain my solutions on GitHub.
 A Python automation tool that organizes files into different folders based on file types.
 
 ### Features:
-- Automatically separates files
-- Organizes images, PDFs, audio, and videos
-- Uses Python file handling concepts
+
+* Automatically separates files
+* Organizes images, PDFs, audio, and videos
+* Uses Python file handling concepts
 
 ### Technologies:
-- Python
-- OS module
-- Shutil module
+
+* Python
+* OS module
+* Shutil module
 
 </details>
 
