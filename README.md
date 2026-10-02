@@ -218,10 +218,22 @@ A collection of my daily LeetCode practice solutions focused on improving:
 
 ---
 
-# 🐍 GitHub Snake Animation
+## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 ---
 
 # 🔗 Coding Profiles
