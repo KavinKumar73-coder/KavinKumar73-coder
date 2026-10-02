@@ -16,6 +16,23 @@ My current focus is:
 I am continuously improving my skills through coding practice, projects, and learning new technologies.
 
 ---
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+---
 
 ## 🛠️ Tech Stack
 
@@ -218,23 +235,7 @@ A collection of my daily LeetCode practice solutions focused on improving:
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/output/github-contribution-grid-snake.svg"
-  />
-</picture>
----
 
 # 🔗 Coding Profiles
 
