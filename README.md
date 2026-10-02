@@ -223,10 +223,14 @@ A collection of my daily LeetCode practice solutions focused on improving:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinKumar73-coder&layout=compact&hide_border=true&theme=tokyonight)
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-![Kavin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KavinKumar73-coder&hide_border=true&theme=tokyo-night)
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/KavinKumar73-coder/KavinKumar73-coder/activity-assets/activity-365d.svg"
+    alt="GitHub Contribution Activity"
+  />
+</p>
 ---
 
 # 🔗 Coding Profiles
