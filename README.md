@@ -214,15 +214,15 @@ A collection of my daily LeetCode practice solutions focused on improving:
 
 ---
 
-# 📊 GitHub Statistics
-
-![Kavin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinKumar73-coder&show_icons=true&hide_border=true&theme=tokyonight)
----
-
-# 🔥 GitHub Streak
+# 📊 GitHub Statistics                                                                                                                           |# 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=KavinKumar73-coder&theme=tokyonight)
 
 ---
+                                                                                                                                                  |
+![Kavin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinKumar73-coder&show_icons=true&hide_border=true&theme=tokyonight) |
+---
+
+
 
 # 💻 Most Used Languages
 
