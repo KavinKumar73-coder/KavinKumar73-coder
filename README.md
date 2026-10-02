@@ -16,7 +16,7 @@ My current focus is:
 I am continuously improving my skills through coding practice, projects, and learning new technologies.
 
 ---
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Contribution 
 
 <picture>
   <source
@@ -33,6 +33,7 @@ I am continuously improving my skills through coding practice, projects, and lea
   />
 </picture>
 ---
+
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -42,6 +43,7 @@ I am continuously improving my skills through coding practice, projects, and lea
   />
 </p>
 ---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
